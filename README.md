@@ -8,7 +8,6 @@ improve the code using Pol(l)ymorphism. The tests do not normally need to be cha
 
 The kata uses:
 
-
 - [PHP 7.3 or 7.4 or 8.0+](https://www.php.net/downloads.php)
 - [Composer](https://getcomposer.org)
 
