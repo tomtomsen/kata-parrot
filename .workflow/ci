@@ -1,9 +1,0 @@
-#!/bin/sh
-
-echo "Test" && \
-php vendor/bin/phpunit && \
-echo "Check-cs" && \
-php vendor/bin/ecs check --fix --ansi && \
-php vendor/bin/ecs check --ansi && \
-echo "PHPstan" && \
-php vendor/bin/phpstan analyse --ansi
